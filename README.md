@@ -6,20 +6,16 @@
 
 <br/><br/>
 
-<img src="assets/From%20Klickpin.com-%20Get%20inspired%20by%20Dreamy%20bridal%20shower%20themes%20for%20your%20next%20inspiration%20board%20using%20ideas%20that%20balance%20beauty%20and%20everyday%20functi.gif" alt="Anime typing on a laptop" width="480"/>
-
-<br/><br/>
-
-**空 Sora (おに)**
-
-*Konnichiwa, nakama! I live somewhere between the keyboard and the next episode.*
-*Code by night, anime in between, and I call it a "workflow".* 🌸
-
-<br/>
-
-![Followers](https://img.shields.io/github/followers/8toy?label=FOLLOWERS&style=flat-square&color=238636&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/8toy?label=STARS&style=flat-square&color=238636&labelColor=0d1117)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-3fb950?style=flat-square&labelColor=0d1117)
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="assets/intro.svg" alt="Sora intro card" width="410"/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="assets/From%20Klickpin.com-%20Get%20inspired%20by%20Dreamy%20bridal%20shower%20themes%20for%20your%20next%20inspiration%20board%20using%20ideas%20that%20balance%20beauty%20and%20everyday%20functi.gif" alt="Anime typing on a laptop" width="410"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
