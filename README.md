@@ -9,10 +9,10 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="assets/intro.svg" alt="Sora intro card" width="410"/>
+      <img src="assets/intro.svg" alt="Sora intro card" width="100"/>
     </td>
     <td align="center" valign="middle">
-      <img src="assets/From%20Klickpin.com-%20Get%20inspired%20by%20Dreamy%20bridal%20shower%20themes%20for%20your%20next%20inspiration%20board%20using%20ideas%20that%20balance%20beauty%20and%20everyday%20functi.gif" alt="Anime typing on a laptop" width="410"/>
+      <img src="assets/From%20Klickpin.com-%20Get%20inspired%20by%20Dreamy%20bridal%20shower%20themes%20for%20your%20next%20inspiration%20board%20using%20ideas%20that%20balance%20beauty%20and%20everyday%20functi.gif" alt="Anime typing on a laptop" width="50"/>
     </td>
   </tr>
 </table>
