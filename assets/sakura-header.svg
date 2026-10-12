@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 330" role="img" aria-label="Sora | おに Sakura night">
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080b19"/><stop offset=".55" stop-color="#251039"/><stop offset="1" stop-color="#071b28"/></linearGradient>
+ <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff66b3"/><stop offset=".5" stop-color="#fff0fa"/><stop offset="1" stop-color="#c6a5ff"/></linearGradient>
+ <g id="petal"><path d="M0 0 C-10 -8 -5 -19 2 -20 C9 -12 8 -5 0 0Z" fill="#ff8bc8"/><path d="M0 -2L2 -17" stroke="#ffe5f3" fill="none"/></g>
+ <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1000" height="330" rx="18" fill="url(#sky)"/>
+<circle cx="800" cy="78" r="53" fill="#ffd7f0" opacity=".95"/><circle cx="820" cy="60" r="49" fill="#251039"/>
+<g fill="#f7d9ff" opacity=".8"><circle cx="68" cy="54" r="1.5"/><circle cx="170" cy="82" r="1.3"/><circle cx="300" cy="34" r="1.2"/><circle cx="640" cy="42" r="1.4"/><circle cx="920" cy="152" r="1.3"/><circle cx="730" cy="180" r="1.4"/><circle cx="480" cy="64" r="1.2"/></g>
+<path d="M0 250Q130 215 250 258T500 245T750 250T1000 224V330H0Z" fill="#11152d"/>
+<path d="M0 278Q150 238 300 280T600 270T1000 256V330H0Z" fill="#080e1d"/>
+<g stroke="#ff83c5" stroke-width="2" fill="none" opacity=".85"><path d="M0 0Q70 25 120 2T250 12"/><path d="M0 0Q40 45 80 72"/></g>
+<g font-family="Verdana,Arial,sans-serif" text-anchor="middle"><text x="500" y="142" font-size="65" font-weight="700" fill="url(#pink)" filter="url(#glow)">Sora | おに</text><text x="500" y="188" font-size="15" letter-spacing="3" fill="#f7e9ff">DEVELOPER × ANIME LOVER × LEARNER</text><text x="500" y="224" font-size="19" fill="#ff9dce">まだ終わりじゃない</text></g>
+<g>
+ <use href="#petal" x="100" y="-20"><animateTransform attributeName="transform" type="translate" values="0 -20;35 365" dur="5.5s" repeatCount="indefinite"/></use>
+ <use href="#petal" x="180" y="-40"><animateTransform attributeName="transform" type="translate" values="0 -40;-25 365" dur="7s" begin="-2s" repeatCount="indefinite"/></use>
+ <use href="#petal" x="260" y="-10"><animateTransform attributeName="transform" type="translate" values="0 -10;18 365" dur="6s" begin="-4s" repeatCount="indefinite"/></use>
+ <use href="#petal" x="380" y="-35"><animateTransform attributeName="transform" type="translate" values="0 -35;-18 365" dur="8s" begin="-3s" repeatCount="indefinite"/></use>
+ <use href="#petal" x="620" y="-20"><animateTransform attributeName="transform" type="translate" values="0 -20;24 365" dur="6.5s" begin="-1s" repeatCount="indefinite"/></use>
+ <use href="#petal" x="720" y="-50"><animateTransform attributeName="transform" type="translate" values="0 -50;-30 365" dur="7.5s" begin="-5s" repeatCount="indefinite"/></use>
+ <use href="#petal" x="900" y="-15"><animateTransform attributeName="transform" type="translate" values="0 -15;16 365" dur="5.8s" begin="-2.5s" repeatCount="indefinite"/></use>
+ <use href="#petal" x="960" y="-45"><animateTransform attributeName="transform" type="translate" values="0 -45;-20 365" dur="8.5s" begin="-6s" repeatCount="indefinite"/></use>
+</g>
+</svg>
