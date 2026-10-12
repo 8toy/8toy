@@ -45,5 +45,4 @@ root@8toy:~$ exit
 </div>
 
 
-<p align="center"><sub>Naruto · One Piece · Attack on Titan · Jujutsu Kaisen · Demon Slayer</sub></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a1f5e,100:050505&height=100&section=footer" width="100%"/>
