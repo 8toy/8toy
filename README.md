@@ -17,8 +17,17 @@
 
 <br/>
 
+## 🎌 Anime Favorites
 
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Naruto"><img src="https://cdn.myanimelist.net/images/anime/13/17405.jpg" width="125" alt="Naruto cover"/></a>
+  <a href="https://en.wikipedia.org/wiki/One_Piece"><img src="https://cdn.myanimelist.net/images/anime/6/73245.jpg" width="125" alt="One Piece cover"/></a>
+  <a href="https://en.wikipedia.org/wiki/Attack_on_Titan"><img src="https://cdn.myanimelist.net/images/anime/10/47347.jpg" width="125" alt="Attack on Titan cover"/></a>
+  <a href="https://en.wikipedia.org/wiki/Jujutsu_Kaisen"><img src="https://cdn.myanimelist.net/images/anime/1171/109222.jpg" width="125" alt="Jujutsu Kaisen cover"/></a>
+  <a href="https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba"><img src="https://cdn.myanimelist.net/images/anime/1286/99889.jpg" width="125" alt="Demon Slayer cover"/></a>
+</p>
 
+<p align="center"><sub>Naruto · One Piece · Attack on Titan · Jujutsu Kaisen · Demon Slayer</sub></p>
 </div>
 
 ---
@@ -35,4 +44,6 @@ root@8toy:~$ exit
 
 </div>
 
+
+<p align="center"><sub>Naruto · One Piece · Attack on Titan · Jujutsu Kaisen · Demon Slayer</sub></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a1f5e,100:050505&height=100&section=footer" width="100%"/>
