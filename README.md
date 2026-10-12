@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🎌 Anime Favorites
+## 🎌 Favorite Animes 
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Naruto"><img src="https://cdn.myanimelist.net/images/anime/13/17405.jpg" width="125" alt="Naruto cover"/></a>
